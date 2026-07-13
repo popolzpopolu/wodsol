@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: popolzpopolu.github.io/wodsol
+  baseUrl: xn----dtbjalkpuoln5d.xn--p1ai
   ignorePatterns:
     - private
     - templates
